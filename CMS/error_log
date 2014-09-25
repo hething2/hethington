@@ -1,0 +1,15 @@
+[09-Dec-2013 12:58:11 Australia/Sydney] SQLSTATE[28000] [1045] Access denied for user 'username'@'localhost' (using password: YES)
+[08-Dec-2013 19:03:08 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:03:32 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:03:39 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:03:39 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:03:52 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:03:55 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:04:01 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:04:24 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:04:25 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:04:40 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:04:43 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:06:13 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:06:15 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Mountain' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3
+[08-Dec-2013 19:06:30 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID 'United States/Boise' is invalid in /home2/toonedoo/public_html/sandbox336/CMS/config.php on line 3

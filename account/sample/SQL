@@ -1,0 +1,2 @@
+select * from products as p left outer join categories as c on p.categoryid 
+= c.categoryid where upper(c.categoryname) = upper ('basses');

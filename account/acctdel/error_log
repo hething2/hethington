@@ -1,0 +1,129 @@
+[05-Nov-2013 20:48:01 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 20:48:11 America/Denver] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 42
+[05-Nov-2013 20:51:15 America/Denver] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 42
+[05-Nov-2013 20:51:25 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 20:51:33 America/Denver] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 42
+[05-Nov-2013 20:54:18 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 20:54:24 America/Denver] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: mixed named and positional parameters in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 42
+[05-Nov-2013 20:59:58 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:00:59 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:03:15 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:03:21 America/Denver] PHP Fatal error:  Call to a member function bindValue() on a non-object in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 36
+[05-Nov-2013 21:05:25 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:05:33 America/Denver] PHP Fatal error:  Call to a member function bindValue() on a non-object in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 36
+[05-Nov-2013 21:08:01 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:08:05 America/Denver] PHP Fatal error:  Call to a member function bindValue() on a non-object in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 36
+[05-Nov-2013 21:09:15 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:09:19 America/Denver] PHP Fatal error:  Call to a member function bindValue() on a non-object in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 36
+[05-Nov-2013 21:10:57 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:11:00 America/Denver] PHP Fatal error:  Call to a member function bindValue() on a non-object in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 36
+[05-Nov-2013 21:21:01 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:21:12 America/Denver] PHP Fatal error:  Call to a member function bindValue() on a non-object in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 36
+[05-Nov-2013 21:23:04 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:23:07 America/Denver] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 40
+[05-Nov-2013 21:40:42 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:40:46 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[05-Nov-2013 21:42:43 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:42:49 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[05-Nov-2013 21:44:09 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:44:15 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[05-Nov-2013 21:48:28 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:48:44 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:48:49 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[05-Nov-2013 21:53:03 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:53:07 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[05-Nov-2013 21:55:21 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 21:55:52 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 28
+[05-Nov-2013 22:00:57 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 22:01:03 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 28
+[05-Nov-2013 22:09:10 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 22:09:16 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[05-Nov-2013 22:09:52 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 22:09:58 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[05-Nov-2013 22:12:47 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 22:12:52 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[05-Nov-2013 22:17:07 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[05-Nov-2013 22:17:14 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[06-Nov-2013 12:09:04 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 12:09:09 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[06-Nov-2013 12:10:44 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 12:11:11 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[06-Nov-2013 12:17:12 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 12:17:41 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[06-Nov-2013 12:18:59 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 12:19:04 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 12:19:08 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[06-Nov-2013 12:23:35 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 12:23:40 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[06-Nov-2013 12:23:50 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[06-Nov-2013 12:27:17 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 12:27:34 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[06-Nov-2013 12:27:40 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 29
+[06-Nov-2013 12:31:27 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 12:31:36 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 30
+[06-Nov-2013 12:34:43 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 12:34:44 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 12:35:07 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 30
+[06-Nov-2013 12:35:11 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 30
+[06-Nov-2013 15:08:17 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 15:26:50 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 15:27:01 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 30
+[06-Nov-2013 15:32:43 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 15:44:02 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 15:45:31 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 15:46:21 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 15:47:44 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[06-Nov-2013 16:11:06 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[07-Nov-2013 14:35:08 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[07-Nov-2013 14:35:15 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 22
+[07-Nov-2013 14:39:36 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[07-Nov-2013 14:39:41 America/Denver] PHP Fatal error:  Call to undefined method PDO::rowCount() in /home2/toonedoo/public_html/sandbox336/account/acctdel/modeld.php on line 22
+[07-Nov-2013 14:42:22 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[11-Nov-2013 07:01:49 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[14-Nov-2013 00:59:54 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 3
+[18-Nov-2013 01:22:50 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[20-Nov-2013 21:04:31 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[28-Nov-2013 16:55:35 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[28-Nov-2013 17:54:39 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[11-Dec-2013 14:35:00 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[11-Dec-2013 14:35:58 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[12-Dec-2013 08:11:50 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[13-Dec-2013 14:52:43 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[13-Dec-2013 14:53:45 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[13-Dec-2013 15:47:26 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[18-Dec-2013 22:16:51 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[18-Dec-2013 22:18:32 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[27-Dec-2013 14:02:10 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[27-Dec-2013 14:03:55 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[02-Jan-2014 23:06:12 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[02-Jan-2014 23:07:42 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[12-Jan-2014 00:08:52 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[12-Jan-2014 00:10:42 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[18-Jan-2014 21:30:39 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[18-Jan-2014 21:32:18 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[25-Jan-2014 21:35:41 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[25-Jan-2014 21:37:26 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[03-Feb-2014 16:17:39 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[07-Feb-2014 23:59:26 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[08-Feb-2014 00:01:31 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[20-Feb-2014 08:22:19 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[20-Feb-2014 08:24:09 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[20-Feb-2014 09:09:43 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[20-Feb-2014 09:11:53 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[20-Feb-2014 11:05:10 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[20-Feb-2014 11:07:00 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[20-Feb-2014 12:56:34 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[20-Feb-2014 12:58:19 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[20-Feb-2014 14:34:48 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[20-Feb-2014 14:36:17 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[08-Mar-2014 19:33:07 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[08-Mar-2014 19:42:06 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[25-Mar-2014 20:04:07 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[25-Mar-2014 20:05:46 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[15-Apr-2014 13:06:51 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[22-Apr-2014 14:53:36 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[22-Apr-2014 14:55:26 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[07-May-2014 14:12:01 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[09-May-2014 14:41:22 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[09-May-2014 14:41:32 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5
+[09-May-2014 14:41:43 America/Denver] PHP Notice:  Undefined index: delete in /home2/toonedoo/public_html/sandbox336/account/acctdel/index.php on line 5

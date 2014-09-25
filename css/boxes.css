@@ -1,0 +1,43 @@
+/* 
+    Document   : boxes
+    Created on : Nov 16, 2012, 10:21:07 AM
+    Author     : Harrymonster
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.box { 
+    border: 3px solid;
+    margin: 0;
+    /*float: left;*/
+}
+
+#one {
+    width: 50%;
+    height: 20em;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#two {
+    width: 30%;
+    height: 15em;
+    position: absolute;
+    left: 10%;
+    top: 2.5em;
+}
+
+#three {
+    width: 10%;
+    height: 10em;
+    position: absolute;
+    left: 20%;
+    top: 5em;
+}
+section{
+    overflow: auto;
+}
+footer {
+ clear: both;   
+}
